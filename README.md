@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Lnaqis
+# About me
 
 - 👀 I'm fascinated by the world of technology, creativity, and design, especially when it comes to building beautiful websites, apps, games, and more. I'm always eager to learn new things and turn my ideas into reality through code and creativity.
 
